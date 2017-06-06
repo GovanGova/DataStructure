@@ -2,7 +2,7 @@
 
 #include<iostream>
 #include<memory>
-using namespace std;
+using namespace  std;
 
 //Data should be int. but it should be constructed before
 // inserting into tree
